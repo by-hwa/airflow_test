@@ -1,0 +1,23 @@
+[2023-03-20 12:34:24,288] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v04.greet scheduled__2023-03-18T00:00:00+00:00 [queued]>
+[2023-03-20 12:34:24,290] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: our_dag_with_python_operator_v04.greet scheduled__2023-03-18T00:00:00+00:00 [queued]>
+[2023-03-20 12:34:24,290] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-20 12:34:24,290] {taskinstance.py:1239} INFO - Starting attempt 1 of 4
+[2023-03-20 12:34:24,290] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-20 12:34:24,293] {taskinstance.py:1259} INFO - Executing <Task(PythonOperator): greet> on 2023-03-18 00:00:00+00:00
+[2023-03-20 12:34:24,294] {standard_task_runner.py:52} INFO - Started process 9789 to run task
+[2023-03-20 12:34:24,296] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'our_dag_with_python_operator_v04', 'greet', 'scheduled__2023-03-18T00:00:00+00:00', '--job-id', '44', '--raw', '--subdir', 'DAGS_FOLDER/create_dag_with_python_operator.py', '--cfg-path', '/var/folders/x1/7qlvjnbj06q1nkyhy70vbb2c0000gn/T/tmpp_afcclj', '--error-file', '/var/folders/x1/7qlvjnbj06q1nkyhy70vbb2c0000gn/T/tmpv63qapfj']
+[2023-03-20 12:34:24,297] {standard_task_runner.py:77} INFO - Job 44: Subtask greet
+[2023-03-20 12:34:24,315] {logging_mixin.py:109} INFO - Running <TaskInstance: our_dag_with_python_operator_v04.greet scheduled__2023-03-18T00:00:00+00:00 [running]> on host Leebyeonghwaui-MacBookPro.local
+[2023-03-20 12:34:24,329] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=byeonghwa
+AIRFLOW_CTX_DAG_ID=our_dag_with_python_operator_v04
+AIRFLOW_CTX_TASK_ID=greet
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-18T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-18T00:00:00+00:00
+[2023-03-20 12:34:24,330] {logging_mixin.py:109} INFO - Hello world! namejerry age20
+[2023-03-20 12:34:24,331] {python.py:175} INFO - Done. Returned value was: None
+[2023-03-20 12:34:24,333] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=our_dag_with_python_operator_v04, task_id=greet, execution_date=20230318T000000, start_date=20230320T033424, end_date=20230320T033424
+[2023-03-20 12:34:24,359] {local_task_job.py:154} INFO - Task exited with return code 0
+[2023-03-20 12:34:24,365] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

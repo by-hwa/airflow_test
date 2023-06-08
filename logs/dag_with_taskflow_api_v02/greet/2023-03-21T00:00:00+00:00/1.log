@@ -1,0 +1,23 @@
+[2023-03-22 09:00:09,426] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.greet scheduled__2023-03-21T00:00:00+00:00 [queued]>
+[2023-03-22 09:00:09,428] {taskinstance.py:1032} INFO - Dependencies all met for <TaskInstance: dag_with_taskflow_api_v02.greet scheduled__2023-03-21T00:00:00+00:00 [queued]>
+[2023-03-22 09:00:09,428] {taskinstance.py:1238} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22 09:00:09,428] {taskinstance.py:1239} INFO - Starting attempt 1 of 4
+[2023-03-22 09:00:09,428] {taskinstance.py:1240} INFO - 
+--------------------------------------------------------------------------------
+[2023-03-22 09:00:09,430] {taskinstance.py:1259} INFO - Executing <Task(_PythonDecoratedOperator): greet> on 2023-03-21 00:00:00+00:00
+[2023-03-22 09:00:09,432] {standard_task_runner.py:52} INFO - Started process 65149 to run task
+[2023-03-22 09:00:09,434] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'dag_with_taskflow_api_v02', 'greet', 'scheduled__2023-03-21T00:00:00+00:00', '--job-id', '143', '--raw', '--subdir', 'DAGS_FOLDER/dag_with_taskflow_api.py', '--cfg-path', '/var/folders/x1/7qlvjnbj06q1nkyhy70vbb2c0000gn/T/tmp953auizp', '--error-file', '/var/folders/x1/7qlvjnbj06q1nkyhy70vbb2c0000gn/T/tmpm01l_hf1']
+[2023-03-22 09:00:09,434] {standard_task_runner.py:77} INFO - Job 143: Subtask greet
+[2023-03-22 09:00:09,448] {logging_mixin.py:109} INFO - Running <TaskInstance: dag_with_taskflow_api_v02.greet scheduled__2023-03-21T00:00:00+00:00 [running]> on host Leebyeonghwaui-MacBookPro.local
+[2023-03-22 09:00:09,463] {taskinstance.py:1424} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=leebyeonghwa
+AIRFLOW_CTX_DAG_ID=dag_with_taskflow_api_v02
+AIRFLOW_CTX_TASK_ID=greet
+AIRFLOW_CTX_EXECUTION_DATE=2023-03-21T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-03-21T00:00:00+00:00
+[2023-03-22 09:00:09,464] {logging_mixin.py:109} INFO - hello world! my name is Jerry Fridnam, and i am 19 years old
+[2023-03-22 09:00:09,464] {python.py:175} INFO - Done. Returned value was: None
+[2023-03-22 09:00:09,466] {taskinstance.py:1267} INFO - Marking task as SUCCESS. dag_id=dag_with_taskflow_api_v02, task_id=greet, execution_date=20230321T000000, start_date=20230322T000009, end_date=20230322T000009
+[2023-03-22 09:00:09,472] {local_task_job.py:154} INFO - Task exited with return code 0
+[2023-03-22 09:00:09,477] {local_task_job.py:264} INFO - 0 downstream tasks scheduled from follow-on schedule check

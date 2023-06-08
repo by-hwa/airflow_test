@@ -1,0 +1,1204 @@
+[2023-03-22 09:00:06,713] {processor.py:163} INFO - Started process (PID=65139) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:06,713] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:00:06,713] {logging_mixin.py:109} INFO - [2023-03-22 09:00:06,713] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:06,729] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:06,735] {logging_mixin.py:109} INFO - [2023-03-22 09:00:06,735] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:00:06,738] {logging_mixin.py:109} INFO - [2023-03-22 09:00:06,738] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:00:06,741] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:00:37,894] {processor.py:163} INFO - Started process (PID=65157) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:37,894] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:00:37,895] {logging_mixin.py:109} INFO - [2023-03-22 09:00:37,895] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:37,911] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:00:37,917] {logging_mixin.py:109} INFO - [2023-03-22 09:00:37,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:00:37,920] {logging_mixin.py:109} INFO - [2023-03-22 09:00:37,920] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:00:37,923] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:01:09,066] {processor.py:163} INFO - Started process (PID=65165) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:09,066] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:01:09,066] {logging_mixin.py:109} INFO - [2023-03-22 09:01:09,066] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:09,082] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:09,088] {logging_mixin.py:109} INFO - [2023-03-22 09:01:09,088] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:01:09,092] {logging_mixin.py:109} INFO - [2023-03-22 09:01:09,092] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:01:09,095] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:01:40,237] {processor.py:163} INFO - Started process (PID=65172) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:40,238] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:01:40,238] {logging_mixin.py:109} INFO - [2023-03-22 09:01:40,238] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:40,254] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:01:40,260] {logging_mixin.py:109} INFO - [2023-03-22 09:01:40,260] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:01:40,263] {logging_mixin.py:109} INFO - [2023-03-22 09:01:40,263] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:01:40,266] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:02:11,421] {processor.py:163} INFO - Started process (PID=65179) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:11,421] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:02:11,421] {logging_mixin.py:109} INFO - [2023-03-22 09:02:11,421] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:11,437] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:11,443] {logging_mixin.py:109} INFO - [2023-03-22 09:02:11,443] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:02:11,446] {logging_mixin.py:109} INFO - [2023-03-22 09:02:11,446] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:02:11,449] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:02:42,071] {processor.py:163} INFO - Started process (PID=65187) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:42,071] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:02:42,072] {logging_mixin.py:109} INFO - [2023-03-22 09:02:42,072] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:42,088] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:02:42,093] {logging_mixin.py:109} INFO - [2023-03-22 09:02:42,093] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:02:42,097] {logging_mixin.py:109} INFO - [2023-03-22 09:02:42,097] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:02:42,100] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:03:12,929] {processor.py:163} INFO - Started process (PID=65204) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:12,929] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:03:12,929] {logging_mixin.py:109} INFO - [2023-03-22 09:03:12,929] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:12,945] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:12,951] {logging_mixin.py:109} INFO - [2023-03-22 09:03:12,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:03:12,954] {logging_mixin.py:109} INFO - [2023-03-22 09:03:12,954] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:03:12,957] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:03:43,845] {processor.py:163} INFO - Started process (PID=65212) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:43,845] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:03:43,845] {logging_mixin.py:109} INFO - [2023-03-22 09:03:43,845] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:43,861] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:03:43,867] {logging_mixin.py:109} INFO - [2023-03-22 09:03:43,867] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:03:43,870] {logging_mixin.py:109} INFO - [2023-03-22 09:03:43,870] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:03:43,873] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:04:14,651] {processor.py:163} INFO - Started process (PID=65219) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:14,652] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:04:14,652] {logging_mixin.py:109} INFO - [2023-03-22 09:04:14,652] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:14,668] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:14,674] {logging_mixin.py:109} INFO - [2023-03-22 09:04:14,674] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:04:14,677] {logging_mixin.py:109} INFO - [2023-03-22 09:04:14,677] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:04:14,680] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:04:45,496] {processor.py:163} INFO - Started process (PID=65226) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:45,496] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:04:45,496] {logging_mixin.py:109} INFO - [2023-03-22 09:04:45,496] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:45,512] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:04:45,518] {logging_mixin.py:109} INFO - [2023-03-22 09:04:45,518] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:04:45,521] {logging_mixin.py:109} INFO - [2023-03-22 09:04:45,521] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:04:45,524] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:05:16,359] {processor.py:163} INFO - Started process (PID=65237) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:16,359] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:05:16,359] {logging_mixin.py:109} INFO - [2023-03-22 09:05:16,359] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:16,375] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:16,381] {logging_mixin.py:109} INFO - [2023-03-22 09:05:16,381] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:05:16,385] {logging_mixin.py:109} INFO - [2023-03-22 09:05:16,385] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:05:16,387] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:05:47,237] {processor.py:163} INFO - Started process (PID=65247) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:47,237] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:05:47,237] {logging_mixin.py:109} INFO - [2023-03-22 09:05:47,237] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:47,253] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:05:47,259] {logging_mixin.py:109} INFO - [2023-03-22 09:05:47,259] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:05:47,263] {logging_mixin.py:109} INFO - [2023-03-22 09:05:47,263] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:05:47,265] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:06:18,100] {processor.py:163} INFO - Started process (PID=65257) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:18,101] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:06:18,101] {logging_mixin.py:109} INFO - [2023-03-22 09:06:18,101] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:18,117] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:18,123] {logging_mixin.py:109} INFO - [2023-03-22 09:06:18,123] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:06:18,126] {logging_mixin.py:109} INFO - [2023-03-22 09:06:18,126] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:06:18,129] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:06:48,938] {processor.py:163} INFO - Started process (PID=65265) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:48,938] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:06:48,938] {logging_mixin.py:109} INFO - [2023-03-22 09:06:48,938] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:48,954] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:06:48,960] {logging_mixin.py:109} INFO - [2023-03-22 09:06:48,960] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:06:48,963] {logging_mixin.py:109} INFO - [2023-03-22 09:06:48,963] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:06:48,966] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:07:19,797] {processor.py:163} INFO - Started process (PID=65272) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:19,797] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:07:19,797] {logging_mixin.py:109} INFO - [2023-03-22 09:07:19,797] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:19,813] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:19,819] {logging_mixin.py:109} INFO - [2023-03-22 09:07:19,819] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:07:19,823] {logging_mixin.py:109} INFO - [2023-03-22 09:07:19,823] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:07:19,825] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:07:50,656] {processor.py:163} INFO - Started process (PID=65279) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:50,656] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:07:50,656] {logging_mixin.py:109} INFO - [2023-03-22 09:07:50,656] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:50,672] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:07:50,678] {logging_mixin.py:109} INFO - [2023-03-22 09:07:50,678] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:07:50,681] {logging_mixin.py:109} INFO - [2023-03-22 09:07:50,681] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:07:50,684] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:08:21,518] {processor.py:163} INFO - Started process (PID=65286) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:21,518] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:08:21,518] {logging_mixin.py:109} INFO - [2023-03-22 09:08:21,518] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:21,534] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:21,540] {logging_mixin.py:109} INFO - [2023-03-22 09:08:21,540] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:08:21,543] {logging_mixin.py:109} INFO - [2023-03-22 09:08:21,543] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:08:21,546] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:08:52,371] {processor.py:163} INFO - Started process (PID=65294) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:52,371] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:08:52,371] {logging_mixin.py:109} INFO - [2023-03-22 09:08:52,371] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:52,387] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:08:52,393] {logging_mixin.py:109} INFO - [2023-03-22 09:08:52,393] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:08:52,397] {logging_mixin.py:109} INFO - [2023-03-22 09:08:52,397] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:08:52,399] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:09:23,239] {processor.py:163} INFO - Started process (PID=65301) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:23,239] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:09:23,239] {logging_mixin.py:109} INFO - [2023-03-22 09:09:23,239] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:23,255] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:23,261] {logging_mixin.py:109} INFO - [2023-03-22 09:09:23,261] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:09:23,264] {logging_mixin.py:109} INFO - [2023-03-22 09:09:23,264] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:09:23,267] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:09:54,102] {processor.py:163} INFO - Started process (PID=65310) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:54,102] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:09:54,102] {logging_mixin.py:109} INFO - [2023-03-22 09:09:54,102] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:54,118] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:09:54,124] {logging_mixin.py:109} INFO - [2023-03-22 09:09:54,124] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:09:54,127] {logging_mixin.py:109} INFO - [2023-03-22 09:09:54,127] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:09:54,130] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:10:25,042] {processor.py:163} INFO - Started process (PID=65322) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:25,042] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:10:25,043] {logging_mixin.py:109} INFO - [2023-03-22 09:10:25,043] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:25,059] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:25,064] {logging_mixin.py:109} INFO - [2023-03-22 09:10:25,064] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:10:25,068] {logging_mixin.py:109} INFO - [2023-03-22 09:10:25,068] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:10:25,071] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:10:55,911] {processor.py:163} INFO - Started process (PID=65344) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:55,911] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:10:55,911] {logging_mixin.py:109} INFO - [2023-03-22 09:10:55,911] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:55,927] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:10:55,933] {logging_mixin.py:109} INFO - [2023-03-22 09:10:55,933] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:10:55,937] {logging_mixin.py:109} INFO - [2023-03-22 09:10:55,937] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:10:55,939] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:11:26,901] {processor.py:163} INFO - Started process (PID=65352) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:26,902] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:11:26,902] {logging_mixin.py:109} INFO - [2023-03-22 09:11:26,902] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:26,918] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:26,923] {logging_mixin.py:109} INFO - [2023-03-22 09:11:26,923] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:11:26,927] {logging_mixin.py:109} INFO - [2023-03-22 09:11:26,927] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:11:26,930] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:11:57,613] {processor.py:163} INFO - Started process (PID=65359) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:57,613] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:11:57,613] {logging_mixin.py:109} INFO - [2023-03-22 09:11:57,613] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:57,629] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:11:57,635] {logging_mixin.py:109} INFO - [2023-03-22 09:11:57,635] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:11:57,638] {logging_mixin.py:109} INFO - [2023-03-22 09:11:57,638] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:11:57,641] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:12:28,466] {processor.py:163} INFO - Started process (PID=65366) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:28,467] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:12:28,467] {logging_mixin.py:109} INFO - [2023-03-22 09:12:28,467] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:28,483] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:28,489] {logging_mixin.py:109} INFO - [2023-03-22 09:12:28,489] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:12:28,492] {logging_mixin.py:109} INFO - [2023-03-22 09:12:28,492] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:12:28,495] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:12:59,332] {processor.py:163} INFO - Started process (PID=65375) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:59,332] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:12:59,332] {logging_mixin.py:109} INFO - [2023-03-22 09:12:59,332] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:59,348] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:12:59,354] {logging_mixin.py:109} INFO - [2023-03-22 09:12:59,354] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:12:59,357] {logging_mixin.py:109} INFO - [2023-03-22 09:12:59,357] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:12:59,360] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:13:30,202] {processor.py:163} INFO - Started process (PID=65382) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:13:30,202] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:13:30,202] {logging_mixin.py:109} INFO - [2023-03-22 09:13:30,202] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:13:30,218] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:13:30,224] {logging_mixin.py:109} INFO - [2023-03-22 09:13:30,224] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:13:30,228] {logging_mixin.py:109} INFO - [2023-03-22 09:13:30,228] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:13:30,230] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:14:01,066] {processor.py:163} INFO - Started process (PID=65390) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:01,066] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:14:01,066] {logging_mixin.py:109} INFO - [2023-03-22 09:14:01,066] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:01,082] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:01,088] {logging_mixin.py:109} INFO - [2023-03-22 09:14:01,088] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:14:01,091] {logging_mixin.py:109} INFO - [2023-03-22 09:14:01,091] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:14:01,094] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:14:31,927] {processor.py:163} INFO - Started process (PID=65397) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:31,928] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:14:31,928] {logging_mixin.py:109} INFO - [2023-03-22 09:14:31,928] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:31,944] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:14:31,950] {logging_mixin.py:109} INFO - [2023-03-22 09:14:31,950] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:14:31,953] {logging_mixin.py:109} INFO - [2023-03-22 09:14:31,953] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:14:31,956] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:15:02,780] {processor.py:163} INFO - Started process (PID=65406) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:02,780] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:15:02,780] {logging_mixin.py:109} INFO - [2023-03-22 09:15:02,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:02,796] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:02,802] {logging_mixin.py:109} INFO - [2023-03-22 09:15:02,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:15:02,805] {logging_mixin.py:109} INFO - [2023-03-22 09:15:02,805] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:15:02,808] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:15:33,659] {processor.py:163} INFO - Started process (PID=65413) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:33,659] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:15:33,659] {logging_mixin.py:109} INFO - [2023-03-22 09:15:33,659] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:33,675] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:15:33,681] {logging_mixin.py:109} INFO - [2023-03-22 09:15:33,681] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:15:33,685] {logging_mixin.py:109} INFO - [2023-03-22 09:15:33,685] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:15:33,687] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:16:04,530] {processor.py:163} INFO - Started process (PID=65420) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:04,530] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:16:04,530] {logging_mixin.py:109} INFO - [2023-03-22 09:16:04,530] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:04,546] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:04,552] {logging_mixin.py:109} INFO - [2023-03-22 09:16:04,552] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:16:04,555] {logging_mixin.py:109} INFO - [2023-03-22 09:16:04,555] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:16:04,558] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:16:35,390] {processor.py:163} INFO - Started process (PID=65427) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:35,390] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:16:35,390] {logging_mixin.py:109} INFO - [2023-03-22 09:16:35,390] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:35,406] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:16:35,412] {logging_mixin.py:109} INFO - [2023-03-22 09:16:35,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:16:35,415] {logging_mixin.py:109} INFO - [2023-03-22 09:16:35,415] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:16:35,418] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:17:06,265] {processor.py:163} INFO - Started process (PID=65435) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:06,266] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:17:06,266] {logging_mixin.py:109} INFO - [2023-03-22 09:17:06,266] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:06,282] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:06,288] {logging_mixin.py:109} INFO - [2023-03-22 09:17:06,287] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:17:06,291] {logging_mixin.py:109} INFO - [2023-03-22 09:17:06,291] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:17:06,294] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:17:37,119] {processor.py:163} INFO - Started process (PID=65442) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:37,119] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:17:37,119] {logging_mixin.py:109} INFO - [2023-03-22 09:17:37,119] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:37,135] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:17:37,141] {logging_mixin.py:109} INFO - [2023-03-22 09:17:37,141] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:17:37,144] {logging_mixin.py:109} INFO - [2023-03-22 09:17:37,144] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:17:37,147] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:18:07,976] {processor.py:163} INFO - Started process (PID=65449) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:07,977] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:18:07,977] {logging_mixin.py:109} INFO - [2023-03-22 09:18:07,977] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:07,993] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:07,999] {logging_mixin.py:109} INFO - [2023-03-22 09:18:07,999] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:18:08,002] {logging_mixin.py:109} INFO - [2023-03-22 09:18:08,002] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:18:08,005] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:18:38,857] {processor.py:163} INFO - Started process (PID=65457) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:38,857] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:18:38,857] {logging_mixin.py:109} INFO - [2023-03-22 09:18:38,857] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:38,873] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:18:38,879] {logging_mixin.py:109} INFO - [2023-03-22 09:18:38,879] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:18:38,882] {logging_mixin.py:109} INFO - [2023-03-22 09:18:38,882] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:18:38,885] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:19:09,732] {processor.py:163} INFO - Started process (PID=65466) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:09,732] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:19:09,733] {logging_mixin.py:109} INFO - [2023-03-22 09:19:09,733] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:09,749] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:09,755] {logging_mixin.py:109} INFO - [2023-03-22 09:19:09,755] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:19:09,758] {logging_mixin.py:109} INFO - [2023-03-22 09:19:09,758] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:19:09,761] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:19:40,588] {processor.py:163} INFO - Started process (PID=65473) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:40,588] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:19:40,589] {logging_mixin.py:109} INFO - [2023-03-22 09:19:40,589] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:40,605] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:19:40,611] {logging_mixin.py:109} INFO - [2023-03-22 09:19:40,610] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:19:40,614] {logging_mixin.py:109} INFO - [2023-03-22 09:19:40,614] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:19:40,617] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:20:11,454] {processor.py:163} INFO - Started process (PID=65480) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:11,454] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:20:11,454] {logging_mixin.py:109} INFO - [2023-03-22 09:20:11,454] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:11,470] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:11,476] {logging_mixin.py:109} INFO - [2023-03-22 09:20:11,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:20:11,479] {logging_mixin.py:109} INFO - [2023-03-22 09:20:11,479] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:20:11,482] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:20:42,325] {processor.py:163} INFO - Started process (PID=65487) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:42,325] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:20:42,325] {logging_mixin.py:109} INFO - [2023-03-22 09:20:42,325] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:42,341] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:20:42,347] {logging_mixin.py:109} INFO - [2023-03-22 09:20:42,347] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:20:42,351] {logging_mixin.py:109} INFO - [2023-03-22 09:20:42,351] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:20:42,353] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:21:13,190] {processor.py:163} INFO - Started process (PID=65494) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:13,191] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:21:13,191] {logging_mixin.py:109} INFO - [2023-03-22 09:21:13,191] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:13,207] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:13,213] {logging_mixin.py:109} INFO - [2023-03-22 09:21:13,212] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:21:13,216] {logging_mixin.py:109} INFO - [2023-03-22 09:21:13,216] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:21:13,219] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:21:44,162] {processor.py:163} INFO - Started process (PID=65501) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:44,162] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:21:44,162] {logging_mixin.py:109} INFO - [2023-03-22 09:21:44,162] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:44,178] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:21:44,184] {logging_mixin.py:109} INFO - [2023-03-22 09:21:44,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:21:44,188] {logging_mixin.py:109} INFO - [2023-03-22 09:21:44,188] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:21:44,190] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:22:15,020] {processor.py:163} INFO - Started process (PID=65508) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:15,020] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:22:15,020] {logging_mixin.py:109} INFO - [2023-03-22 09:22:15,020] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:15,036] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:15,042] {logging_mixin.py:109} INFO - [2023-03-22 09:22:15,042] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:22:15,045] {logging_mixin.py:109} INFO - [2023-03-22 09:22:15,045] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:22:15,048] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:22:45,894] {processor.py:163} INFO - Started process (PID=65516) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:45,894] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:22:45,894] {logging_mixin.py:109} INFO - [2023-03-22 09:22:45,894] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:45,910] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:22:45,916] {logging_mixin.py:109} INFO - [2023-03-22 09:22:45,916] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:22:45,919] {logging_mixin.py:109} INFO - [2023-03-22 09:22:45,919] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:22:45,922] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:23:16,758] {processor.py:163} INFO - Started process (PID=65523) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:16,758] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:23:16,758] {logging_mixin.py:109} INFO - [2023-03-22 09:23:16,758] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:16,774] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:16,780] {logging_mixin.py:109} INFO - [2023-03-22 09:23:16,780] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:23:16,783] {logging_mixin.py:109} INFO - [2023-03-22 09:23:16,783] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:23:16,786] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:23:47,622] {processor.py:163} INFO - Started process (PID=65530) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:47,623] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:23:47,623] {logging_mixin.py:109} INFO - [2023-03-22 09:23:47,623] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:47,639] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:23:47,645] {logging_mixin.py:109} INFO - [2023-03-22 09:23:47,644] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:23:47,648] {logging_mixin.py:109} INFO - [2023-03-22 09:23:47,648] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:23:47,651] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:24:18,572] {processor.py:163} INFO - Started process (PID=65538) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:18,572] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:24:18,573] {logging_mixin.py:109} INFO - [2023-03-22 09:24:18,573] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:18,589] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:18,594] {logging_mixin.py:109} INFO - [2023-03-22 09:24:18,594] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:24:18,598] {logging_mixin.py:109} INFO - [2023-03-22 09:24:18,598] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:24:18,601] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:24:49,434] {processor.py:163} INFO - Started process (PID=65546) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:49,434] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:24:49,434] {logging_mixin.py:109} INFO - [2023-03-22 09:24:49,434] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:49,450] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:24:49,456] {logging_mixin.py:109} INFO - [2023-03-22 09:24:49,456] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:24:49,460] {logging_mixin.py:109} INFO - [2023-03-22 09:24:49,460] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:24:49,463] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:25:20,292] {processor.py:163} INFO - Started process (PID=65553) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:20,292] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:25:20,292] {logging_mixin.py:109} INFO - [2023-03-22 09:25:20,292] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:20,308] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:20,314] {logging_mixin.py:109} INFO - [2023-03-22 09:25:20,314] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:25:20,317] {logging_mixin.py:109} INFO - [2023-03-22 09:25:20,317] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:25:20,320] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:25:51,150] {processor.py:163} INFO - Started process (PID=65560) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:51,150] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:25:51,150] {logging_mixin.py:109} INFO - [2023-03-22 09:25:51,150] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:51,166] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:25:51,172] {logging_mixin.py:109} INFO - [2023-03-22 09:25:51,172] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:25:51,175] {logging_mixin.py:109} INFO - [2023-03-22 09:25:51,175] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:25:51,178] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:26:22,011] {processor.py:163} INFO - Started process (PID=65567) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:22,011] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:26:22,011] {logging_mixin.py:109} INFO - [2023-03-22 09:26:22,011] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:22,027] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:22,033] {logging_mixin.py:109} INFO - [2023-03-22 09:26:22,033] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:26:22,036] {logging_mixin.py:109} INFO - [2023-03-22 09:26:22,036] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:26:22,039] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:26:52,860] {processor.py:163} INFO - Started process (PID=65575) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:52,861] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:26:52,861] {logging_mixin.py:109} INFO - [2023-03-22 09:26:52,861] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:52,877] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:26:52,883] {logging_mixin.py:109} INFO - [2023-03-22 09:26:52,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:26:52,886] {logging_mixin.py:109} INFO - [2023-03-22 09:26:52,886] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:26:52,889] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:27:23,730] {processor.py:163} INFO - Started process (PID=65582) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:23,731] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:27:23,731] {logging_mixin.py:109} INFO - [2023-03-22 09:27:23,731] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:23,747] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:23,753] {logging_mixin.py:109} INFO - [2023-03-22 09:27:23,753] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:27:23,756] {logging_mixin.py:109} INFO - [2023-03-22 09:27:23,756] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:27:23,759] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:27:54,603] {processor.py:163} INFO - Started process (PID=65589) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:54,603] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:27:54,603] {logging_mixin.py:109} INFO - [2023-03-22 09:27:54,603] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:54,619] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:27:54,625] {logging_mixin.py:109} INFO - [2023-03-22 09:27:54,625] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:27:54,628] {logging_mixin.py:109} INFO - [2023-03-22 09:27:54,628] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:27:54,631] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:28:25,457] {processor.py:163} INFO - Started process (PID=65596) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:25,457] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:28:25,457] {logging_mixin.py:109} INFO - [2023-03-22 09:28:25,457] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:25,473] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:25,479] {logging_mixin.py:109} INFO - [2023-03-22 09:28:25,479] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:28:25,482] {logging_mixin.py:109} INFO - [2023-03-22 09:28:25,482] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:28:25,485] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:28:56,329] {processor.py:163} INFO - Started process (PID=65604) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:56,329] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:28:56,329] {logging_mixin.py:109} INFO - [2023-03-22 09:28:56,329] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:56,345] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:28:56,351] {logging_mixin.py:109} INFO - [2023-03-22 09:28:56,351] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:28:56,355] {logging_mixin.py:109} INFO - [2023-03-22 09:28:56,355] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:28:56,358] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:29:27,188] {processor.py:163} INFO - Started process (PID=65611) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:27,188] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:29:27,189] {logging_mixin.py:109} INFO - [2023-03-22 09:29:27,189] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:27,205] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:27,210] {logging_mixin.py:109} INFO - [2023-03-22 09:29:27,210] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:29:27,214] {logging_mixin.py:109} INFO - [2023-03-22 09:29:27,214] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:29:27,217] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:29:58,059] {processor.py:163} INFO - Started process (PID=65618) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:58,059] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:29:58,059] {logging_mixin.py:109} INFO - [2023-03-22 09:29:58,059] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:58,075] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:29:58,081] {logging_mixin.py:109} INFO - [2023-03-22 09:29:58,081] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:29:58,084] {logging_mixin.py:109} INFO - [2023-03-22 09:29:58,084] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:29:58,087] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:30:28,925] {processor.py:163} INFO - Started process (PID=65627) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:28,926] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:30:28,926] {logging_mixin.py:109} INFO - [2023-03-22 09:30:28,926] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:28,942] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:28,948] {logging_mixin.py:109} INFO - [2023-03-22 09:30:28,948] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:30:28,951] {logging_mixin.py:109} INFO - [2023-03-22 09:30:28,951] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:30:28,954] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:30:59,792] {processor.py:163} INFO - Started process (PID=65635) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:59,792] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:30:59,793] {logging_mixin.py:109} INFO - [2023-03-22 09:30:59,793] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:59,809] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:30:59,815] {logging_mixin.py:109} INFO - [2023-03-22 09:30:59,814] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:30:59,818] {logging_mixin.py:109} INFO - [2023-03-22 09:30:59,818] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:30:59,821] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:31:30,655] {processor.py:163} INFO - Started process (PID=65643) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:31:30,655] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:31:30,655] {logging_mixin.py:109} INFO - [2023-03-22 09:31:30,655] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:31:30,671] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:31:30,677] {logging_mixin.py:109} INFO - [2023-03-22 09:31:30,677] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:31:30,681] {logging_mixin.py:109} INFO - [2023-03-22 09:31:30,681] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:31:30,683] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:32:01,907] {processor.py:163} INFO - Started process (PID=65650) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:01,907] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:32:01,907] {logging_mixin.py:109} INFO - [2023-03-22 09:32:01,907] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:01,923] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:01,929] {logging_mixin.py:109} INFO - [2023-03-22 09:32:01,929] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:32:01,933] {logging_mixin.py:109} INFO - [2023-03-22 09:32:01,933] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:32:01,936] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:32:33,162] {processor.py:163} INFO - Started process (PID=65658) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:33,162] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:32:33,162] {logging_mixin.py:109} INFO - [2023-03-22 09:32:33,162] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:33,178] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:32:33,184] {logging_mixin.py:109} INFO - [2023-03-22 09:32:33,184] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:32:33,188] {logging_mixin.py:109} INFO - [2023-03-22 09:32:33,188] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:32:33,190] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:33:04,420] {processor.py:163} INFO - Started process (PID=65668) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:04,420] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:33:04,420] {logging_mixin.py:109} INFO - [2023-03-22 09:33:04,420] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:04,436] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:04,442] {logging_mixin.py:109} INFO - [2023-03-22 09:33:04,442] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:33:04,445] {logging_mixin.py:109} INFO - [2023-03-22 09:33:04,445] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:33:04,448] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:33:35,415] {processor.py:163} INFO - Started process (PID=65678) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:35,415] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:33:35,415] {logging_mixin.py:109} INFO - [2023-03-22 09:33:35,415] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:35,431] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:33:35,437] {logging_mixin.py:109} INFO - [2023-03-22 09:33:35,437] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:33:35,441] {logging_mixin.py:109} INFO - [2023-03-22 09:33:35,441] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:33:35,444] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:34:06,387] {processor.py:163} INFO - Started process (PID=65685) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:06,387] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:34:06,387] {logging_mixin.py:109} INFO - [2023-03-22 09:34:06,387] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:06,403] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:06,409] {logging_mixin.py:109} INFO - [2023-03-22 09:34:06,409] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:34:06,412] {logging_mixin.py:109} INFO - [2023-03-22 09:34:06,412] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:34:06,415] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:34:37,390] {processor.py:163} INFO - Started process (PID=65692) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:37,390] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:34:37,391] {logging_mixin.py:109} INFO - [2023-03-22 09:34:37,391] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:37,407] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:34:37,413] {logging_mixin.py:109} INFO - [2023-03-22 09:34:37,413] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:34:37,416] {logging_mixin.py:109} INFO - [2023-03-22 09:34:37,416] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:34:37,419] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:35:08,464] {processor.py:163} INFO - Started process (PID=65700) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:08,464] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:35:08,464] {logging_mixin.py:109} INFO - [2023-03-22 09:35:08,464] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:08,480] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:08,486] {logging_mixin.py:109} INFO - [2023-03-22 09:35:08,486] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:35:08,490] {logging_mixin.py:109} INFO - [2023-03-22 09:35:08,490] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:35:08,493] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:35:39,453] {processor.py:163} INFO - Started process (PID=65707) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:39,453] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:35:39,453] {logging_mixin.py:109} INFO - [2023-03-22 09:35:39,453] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:39,469] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:35:39,475] {logging_mixin.py:109} INFO - [2023-03-22 09:35:39,475] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:35:39,479] {logging_mixin.py:109} INFO - [2023-03-22 09:35:39,479] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:35:39,481] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:36:10,452] {processor.py:163} INFO - Started process (PID=65714) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:10,452] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:36:10,452] {logging_mixin.py:109} INFO - [2023-03-22 09:36:10,452] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:10,468] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:10,474] {logging_mixin.py:109} INFO - [2023-03-22 09:36:10,474] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:36:10,477] {logging_mixin.py:109} INFO - [2023-03-22 09:36:10,477] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:36:10,480] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:36:41,452] {processor.py:163} INFO - Started process (PID=65722) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:41,452] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:36:41,452] {logging_mixin.py:109} INFO - [2023-03-22 09:36:41,452] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:41,468] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:36:41,474] {logging_mixin.py:109} INFO - [2023-03-22 09:36:41,474] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:36:41,477] {logging_mixin.py:109} INFO - [2023-03-22 09:36:41,477] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:36:41,480] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:37:12,457] {processor.py:163} INFO - Started process (PID=65730) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:12,457] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:37:12,457] {logging_mixin.py:109} INFO - [2023-03-22 09:37:12,457] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:12,473] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:12,479] {logging_mixin.py:109} INFO - [2023-03-22 09:37:12,479] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:37:12,482] {logging_mixin.py:109} INFO - [2023-03-22 09:37:12,482] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:37:12,485] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:37:43,453] {processor.py:163} INFO - Started process (PID=65737) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:43,454] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:37:43,454] {logging_mixin.py:109} INFO - [2023-03-22 09:37:43,454] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:43,470] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:37:43,476] {logging_mixin.py:109} INFO - [2023-03-22 09:37:43,476] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:37:43,479] {logging_mixin.py:109} INFO - [2023-03-22 09:37:43,479] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:37:43,482] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:38:14,465] {processor.py:163} INFO - Started process (PID=65744) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:14,465] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:38:14,465] {logging_mixin.py:109} INFO - [2023-03-22 09:38:14,465] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:14,481] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:14,487] {logging_mixin.py:109} INFO - [2023-03-22 09:38:14,487] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:38:14,490] {logging_mixin.py:109} INFO - [2023-03-22 09:38:14,490] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:38:14,493] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:38:45,464] {processor.py:163} INFO - Started process (PID=65752) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:45,464] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:38:45,464] {logging_mixin.py:109} INFO - [2023-03-22 09:38:45,464] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:45,480] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:38:45,486] {logging_mixin.py:109} INFO - [2023-03-22 09:38:45,486] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:38:45,490] {logging_mixin.py:109} INFO - [2023-03-22 09:38:45,490] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:38:45,493] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:39:16,472] {processor.py:163} INFO - Started process (PID=65759) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:16,473] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:39:16,473] {logging_mixin.py:109} INFO - [2023-03-22 09:39:16,473] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:16,489] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:16,495] {logging_mixin.py:109} INFO - [2023-03-22 09:39:16,495] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:39:16,498] {logging_mixin.py:109} INFO - [2023-03-22 09:39:16,498] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:39:16,501] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:39:47,455] {processor.py:163} INFO - Started process (PID=65766) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:47,455] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:39:47,455] {logging_mixin.py:109} INFO - [2023-03-22 09:39:47,455] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:47,471] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:39:47,477] {logging_mixin.py:109} INFO - [2023-03-22 09:39:47,477] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:39:47,481] {logging_mixin.py:109} INFO - [2023-03-22 09:39:47,481] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:39:47,484] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:40:18,465] {processor.py:163} INFO - Started process (PID=65773) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:18,466] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:40:18,466] {logging_mixin.py:109} INFO - [2023-03-22 09:40:18,466] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:18,482] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:18,488] {logging_mixin.py:109} INFO - [2023-03-22 09:40:18,488] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:40:18,491] {logging_mixin.py:109} INFO - [2023-03-22 09:40:18,491] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:40:18,494] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:40:49,520] {processor.py:163} INFO - Started process (PID=65781) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:49,520] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:40:49,520] {logging_mixin.py:109} INFO - [2023-03-22 09:40:49,520] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:49,536] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:40:49,542] {logging_mixin.py:109} INFO - [2023-03-22 09:40:49,542] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:40:49,546] {logging_mixin.py:109} INFO - [2023-03-22 09:40:49,546] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:40:49,549] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:41:20,514] {processor.py:163} INFO - Started process (PID=65788) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:20,514] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:41:20,514] {logging_mixin.py:109} INFO - [2023-03-22 09:41:20,514] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:20,530] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:20,536] {logging_mixin.py:109} INFO - [2023-03-22 09:41:20,536] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:41:20,540] {logging_mixin.py:109} INFO - [2023-03-22 09:41:20,540] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:41:20,543] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:41:51,769] {processor.py:163} INFO - Started process (PID=65795) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:51,769] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:41:51,769] {logging_mixin.py:109} INFO - [2023-03-22 09:41:51,769] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:51,785] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:41:51,791] {logging_mixin.py:109} INFO - [2023-03-22 09:41:51,791] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:41:51,794] {logging_mixin.py:109} INFO - [2023-03-22 09:41:51,794] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:41:51,797] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:42:22,781] {processor.py:163} INFO - Started process (PID=65802) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:22,781] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:42:22,781] {logging_mixin.py:109} INFO - [2023-03-22 09:42:22,781] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:22,797] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:22,803] {logging_mixin.py:109} INFO - [2023-03-22 09:42:22,803] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:42:22,806] {logging_mixin.py:109} INFO - [2023-03-22 09:42:22,806] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:42:22,809] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:42:53,795] {processor.py:163} INFO - Started process (PID=65810) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:53,795] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:42:53,796] {logging_mixin.py:109} INFO - [2023-03-22 09:42:53,796] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:53,811] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:42:53,817] {logging_mixin.py:109} INFO - [2023-03-22 09:42:53,817] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:42:53,821] {logging_mixin.py:109} INFO - [2023-03-22 09:42:53,821] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:42:53,823] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:43:24,865] {processor.py:163} INFO - Started process (PID=65817) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:24,865] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:43:24,865] {logging_mixin.py:109} INFO - [2023-03-22 09:43:24,865] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:24,881] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:24,887] {logging_mixin.py:109} INFO - [2023-03-22 09:43:24,887] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:43:24,891] {logging_mixin.py:109} INFO - [2023-03-22 09:43:24,891] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:43:24,894] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:43:55,856] {processor.py:163} INFO - Started process (PID=65824) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:55,856] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:43:55,856] {logging_mixin.py:109} INFO - [2023-03-22 09:43:55,856] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:55,872] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:43:55,878] {logging_mixin.py:109} INFO - [2023-03-22 09:43:55,878] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:43:55,882] {logging_mixin.py:109} INFO - [2023-03-22 09:43:55,882] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:43:55,884] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:44:26,892] {processor.py:163} INFO - Started process (PID=65831) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:26,892] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:44:26,892] {logging_mixin.py:109} INFO - [2023-03-22 09:44:26,892] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:26,908] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:26,914] {logging_mixin.py:109} INFO - [2023-03-22 09:44:26,914] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:44:26,917] {logging_mixin.py:109} INFO - [2023-03-22 09:44:26,917] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:44:26,920] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:44:57,881] {processor.py:163} INFO - Started process (PID=65839) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:57,881] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:44:57,881] {logging_mixin.py:109} INFO - [2023-03-22 09:44:57,881] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:57,897] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:44:57,903] {logging_mixin.py:109} INFO - [2023-03-22 09:44:57,903] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:44:57,906] {logging_mixin.py:109} INFO - [2023-03-22 09:44:57,906] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:44:57,909] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:45:28,889] {processor.py:163} INFO - Started process (PID=65846) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:28,889] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:45:28,889] {logging_mixin.py:109} INFO - [2023-03-22 09:45:28,889] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:28,905] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:28,911] {logging_mixin.py:109} INFO - [2023-03-22 09:45:28,911] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:45:28,914] {logging_mixin.py:109} INFO - [2023-03-22 09:45:28,914] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:45:28,917] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:45:59,887] {processor.py:163} INFO - Started process (PID=65853) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:59,888] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:45:59,888] {logging_mixin.py:109} INFO - [2023-03-22 09:45:59,888] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:59,904] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:45:59,910] {logging_mixin.py:109} INFO - [2023-03-22 09:45:59,910] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:45:59,913] {logging_mixin.py:109} INFO - [2023-03-22 09:45:59,913] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:45:59,916] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:46:30,614] {processor.py:163} INFO - Started process (PID=65860) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:46:30,614] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:46:30,614] {logging_mixin.py:109} INFO - [2023-03-22 09:46:30,614] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:46:30,630] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:46:30,636] {logging_mixin.py:109} INFO - [2023-03-22 09:46:30,636] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:46:30,639] {logging_mixin.py:109} INFO - [2023-03-22 09:46:30,639] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:46:30,642] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:47:01,629] {processor.py:163} INFO - Started process (PID=65868) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:01,629] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:47:01,629] {logging_mixin.py:109} INFO - [2023-03-22 09:47:01,629] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:01,645] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:01,651] {logging_mixin.py:109} INFO - [2023-03-22 09:47:01,651] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:47:01,655] {logging_mixin.py:109} INFO - [2023-03-22 09:47:01,655] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:47:01,657] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:47:32,623] {processor.py:163} INFO - Started process (PID=65876) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:32,623] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:47:32,623] {logging_mixin.py:109} INFO - [2023-03-22 09:47:32,623] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:32,639] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:47:32,645] {logging_mixin.py:109} INFO - [2023-03-22 09:47:32,645] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:47:32,648] {logging_mixin.py:109} INFO - [2023-03-22 09:47:32,648] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:47:32,651] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:48:03,620] {processor.py:163} INFO - Started process (PID=65883) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:03,620] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:48:03,620] {logging_mixin.py:109} INFO - [2023-03-22 09:48:03,620] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:03,636] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:03,642] {logging_mixin.py:109} INFO - [2023-03-22 09:48:03,642] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:48:03,646] {logging_mixin.py:109} INFO - [2023-03-22 09:48:03,646] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:48:03,649] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:48:34,716] {processor.py:163} INFO - Started process (PID=65890) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:34,717] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:48:34,717] {logging_mixin.py:109} INFO - [2023-03-22 09:48:34,717] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:34,733] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:48:34,739] {logging_mixin.py:109} INFO - [2023-03-22 09:48:34,739] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:48:34,742] {logging_mixin.py:109} INFO - [2023-03-22 09:48:34,742] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:48:34,745] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:49:05,711] {processor.py:163} INFO - Started process (PID=65899) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:05,712] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:49:05,712] {logging_mixin.py:109} INFO - [2023-03-22 09:49:05,712] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:05,728] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:05,734] {logging_mixin.py:109} INFO - [2023-03-22 09:49:05,734] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:49:05,737] {logging_mixin.py:109} INFO - [2023-03-22 09:49:05,737] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:49:05,740] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:49:36,710] {processor.py:163} INFO - Started process (PID=65906) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:36,710] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:49:36,711] {logging_mixin.py:109} INFO - [2023-03-22 09:49:36,710] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:36,727] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:49:36,733] {logging_mixin.py:109} INFO - [2023-03-22 09:49:36,732] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:49:36,736] {logging_mixin.py:109} INFO - [2023-03-22 09:49:36,736] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:49:36,739] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:50:07,780] {processor.py:163} INFO - Started process (PID=65913) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:07,780] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:50:07,780] {logging_mixin.py:109} INFO - [2023-03-22 09:50:07,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:07,796] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:07,802] {logging_mixin.py:109} INFO - [2023-03-22 09:50:07,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:50:07,805] {logging_mixin.py:109} INFO - [2023-03-22 09:50:07,805] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:50:07,808] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:50:38,788] {processor.py:163} INFO - Started process (PID=65920) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:38,788] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:50:38,789] {logging_mixin.py:109} INFO - [2023-03-22 09:50:38,788] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:38,805] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:50:38,810] {logging_mixin.py:109} INFO - [2023-03-22 09:50:38,810] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:50:38,814] {logging_mixin.py:109} INFO - [2023-03-22 09:50:38,814] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:50:38,817] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:51:09,780] {processor.py:163} INFO - Started process (PID=65927) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:09,780] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:51:09,780] {logging_mixin.py:109} INFO - [2023-03-22 09:51:09,780] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:09,796] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:09,802] {logging_mixin.py:109} INFO - [2023-03-22 09:51:09,802] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:51:09,805] {logging_mixin.py:109} INFO - [2023-03-22 09:51:09,805] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:51:09,808] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:51:40,856] {processor.py:163} INFO - Started process (PID=65936) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:40,856] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:51:40,856] {logging_mixin.py:109} INFO - [2023-03-22 09:51:40,856] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:40,872] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:51:40,878] {logging_mixin.py:109} INFO - [2023-03-22 09:51:40,878] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:51:40,881] {logging_mixin.py:109} INFO - [2023-03-22 09:51:40,881] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:51:40,885] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:52:11,922] {processor.py:163} INFO - Started process (PID=65943) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:11,922] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:52:11,923] {logging_mixin.py:109} INFO - [2023-03-22 09:52:11,923] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:11,939] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:11,944] {logging_mixin.py:109} INFO - [2023-03-22 09:52:11,944] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:52:11,948] {logging_mixin.py:109} INFO - [2023-03-22 09:52:11,948] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:52:11,951] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:52:43,004] {processor.py:163} INFO - Started process (PID=65951) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:43,004] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:52:43,004] {logging_mixin.py:109} INFO - [2023-03-22 09:52:43,004] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:43,020] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:52:43,026] {logging_mixin.py:109} INFO - [2023-03-22 09:52:43,026] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:52:43,029] {logging_mixin.py:109} INFO - [2023-03-22 09:52:43,029] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:52:43,032] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:53:14,000] {processor.py:163} INFO - Started process (PID=65958) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:14,000] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:53:14,000] {logging_mixin.py:109} INFO - [2023-03-22 09:53:14,000] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:14,016] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:14,022] {logging_mixin.py:109} INFO - [2023-03-22 09:53:14,022] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:53:14,025] {logging_mixin.py:109} INFO - [2023-03-22 09:53:14,025] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:53:14,028] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:53:45,013] {processor.py:163} INFO - Started process (PID=65965) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:45,013] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:53:45,013] {logging_mixin.py:109} INFO - [2023-03-22 09:53:45,013] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:45,029] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:53:45,035] {logging_mixin.py:109} INFO - [2023-03-22 09:53:45,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:53:45,039] {logging_mixin.py:109} INFO - [2023-03-22 09:53:45,039] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:53:45,041] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:54:16,013] {processor.py:163} INFO - Started process (PID=65972) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:16,013] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:54:16,014] {logging_mixin.py:109} INFO - [2023-03-22 09:54:16,014] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:16,030] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:16,035] {logging_mixin.py:109} INFO - [2023-03-22 09:54:16,035] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:54:16,039] {logging_mixin.py:109} INFO - [2023-03-22 09:54:16,039] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:54:16,042] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:54:47,068] {processor.py:163} INFO - Started process (PID=65980) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:47,068] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:54:47,068] {logging_mixin.py:109} INFO - [2023-03-22 09:54:47,068] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:47,084] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:54:47,090] {logging_mixin.py:109} INFO - [2023-03-22 09:54:47,090] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:54:47,093] {logging_mixin.py:109} INFO - [2023-03-22 09:54:47,093] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:54:47,096] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:55:18,064] {processor.py:163} INFO - Started process (PID=65987) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:18,064] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:55:18,064] {logging_mixin.py:109} INFO - [2023-03-22 09:55:18,064] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:18,080] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:18,086] {logging_mixin.py:109} INFO - [2023-03-22 09:55:18,086] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:55:18,090] {logging_mixin.py:109} INFO - [2023-03-22 09:55:18,090] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:55:18,092] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:55:49,088] {processor.py:163} INFO - Started process (PID=65994) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:49,088] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:55:49,088] {logging_mixin.py:109} INFO - [2023-03-22 09:55:49,088] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:49,104] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:55:49,110] {logging_mixin.py:109} INFO - [2023-03-22 09:55:49,110] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:55:49,113] {logging_mixin.py:109} INFO - [2023-03-22 09:55:49,113] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:55:49,116] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:56:20,089] {processor.py:163} INFO - Started process (PID=66001) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:20,090] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:56:20,090] {logging_mixin.py:109} INFO - [2023-03-22 09:56:20,090] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:20,106] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:20,112] {logging_mixin.py:109} INFO - [2023-03-22 09:56:20,112] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:56:20,115] {logging_mixin.py:109} INFO - [2023-03-22 09:56:20,115] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:56:20,118] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:56:51,294] {processor.py:163} INFO - Started process (PID=66009) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:51,294] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:56:51,294] {logging_mixin.py:109} INFO - [2023-03-22 09:56:51,294] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:51,310] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:56:51,316] {logging_mixin.py:109} INFO - [2023-03-22 09:56:51,316] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:56:51,319] {logging_mixin.py:109} INFO - [2023-03-22 09:56:51,319] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:56:51,322] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:57:22,311] {processor.py:163} INFO - Started process (PID=66016) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:22,311] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:57:22,311] {logging_mixin.py:109} INFO - [2023-03-22 09:57:22,311] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:22,327] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:22,333] {logging_mixin.py:109} INFO - [2023-03-22 09:57:22,333] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:57:22,337] {logging_mixin.py:109} INFO - [2023-03-22 09:57:22,337] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:57:22,339] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:57:53,391] {processor.py:163} INFO - Started process (PID=66024) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:53,391] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:57:53,391] {logging_mixin.py:109} INFO - [2023-03-22 09:57:53,391] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:53,407] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:57:53,413] {logging_mixin.py:109} INFO - [2023-03-22 09:57:53,413] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:57:53,416] {logging_mixin.py:109} INFO - [2023-03-22 09:57:53,416] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:57:53,419] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:58:24,383] {processor.py:163} INFO - Started process (PID=66031) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:24,383] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:58:24,383] {logging_mixin.py:109} INFO - [2023-03-22 09:58:24,383] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:24,399] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:24,405] {logging_mixin.py:109} INFO - [2023-03-22 09:58:24,405] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:58:24,408] {logging_mixin.py:109} INFO - [2023-03-22 09:58:24,408] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:58:24,411] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 09:58:55,390] {processor.py:163} INFO - Started process (PID=66039) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:55,390] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:58:55,390] {logging_mixin.py:109} INFO - [2023-03-22 09:58:55,390] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:55,407] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:58:55,413] {logging_mixin.py:109} INFO - [2023-03-22 09:58:55,412] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:58:55,416] {logging_mixin.py:109} INFO - [2023-03-22 09:58:55,416] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:58:55,419] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:59:26,369] {processor.py:163} INFO - Started process (PID=66046) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:26,370] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:59:26,370] {logging_mixin.py:109} INFO - [2023-03-22 09:59:26,370] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:26,386] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:26,392] {logging_mixin.py:109} INFO - [2023-03-22 09:59:26,392] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:59:26,395] {logging_mixin.py:109} INFO - [2023-03-22 09:59:26,395] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:59:26,398] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 09:59:57,366] {processor.py:163} INFO - Started process (PID=66053) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:57,366] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 09:59:57,366] {logging_mixin.py:109} INFO - [2023-03-22 09:59:57,366] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:57,382] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 09:59:57,388] {logging_mixin.py:109} INFO - [2023-03-22 09:59:57,388] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 09:59:57,391] {logging_mixin.py:109} INFO - [2023-03-22 09:59:57,391] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 09:59:57,394] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:00:28,388] {processor.py:163} INFO - Started process (PID=66060) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:28,388] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:00:28,388] {logging_mixin.py:109} INFO - [2023-03-22 10:00:28,388] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:28,404] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:28,410] {logging_mixin.py:109} INFO - [2023-03-22 10:00:28,410] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:00:28,414] {logging_mixin.py:109} INFO - [2023-03-22 10:00:28,414] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:00:28,416] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:00:59,389] {processor.py:163} INFO - Started process (PID=66069) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:59,389] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:00:59,389] {logging_mixin.py:109} INFO - [2023-03-22 10:00:59,389] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:59,405] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:00:59,411] {logging_mixin.py:109} INFO - [2023-03-22 10:00:59,411] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:00:59,415] {logging_mixin.py:109} INFO - [2023-03-22 10:00:59,415] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:00:59,417] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:01:30,646] {processor.py:163} INFO - Started process (PID=66076) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:01:30,646] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:01:30,646] {logging_mixin.py:109} INFO - [2023-03-22 10:01:30,646] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:01:30,662] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:01:30,668] {logging_mixin.py:109} INFO - [2023-03-22 10:01:30,668] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:01:30,671] {logging_mixin.py:109} INFO - [2023-03-22 10:01:30,671] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:01:30,675] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:02:01,644] {processor.py:163} INFO - Started process (PID=66084) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:01,644] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:02:01,644] {logging_mixin.py:109} INFO - [2023-03-22 10:02:01,644] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:01,660] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:01,666] {logging_mixin.py:109} INFO - [2023-03-22 10:02:01,666] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:02:01,669] {logging_mixin.py:109} INFO - [2023-03-22 10:02:01,669] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:02:01,672] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:02:32,721] {processor.py:163} INFO - Started process (PID=66091) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:32,721] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:02:32,721] {logging_mixin.py:109} INFO - [2023-03-22 10:02:32,721] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:32,737] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:02:32,743] {logging_mixin.py:109} INFO - [2023-03-22 10:02:32,743] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:02:32,746] {logging_mixin.py:109} INFO - [2023-03-22 10:02:32,746] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:02:32,749] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:03:03,725] {processor.py:163} INFO - Started process (PID=66098) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:03,725] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:03:03,726] {logging_mixin.py:109} INFO - [2023-03-22 10:03:03,726] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:03,742] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:03,747] {logging_mixin.py:109} INFO - [2023-03-22 10:03:03,747] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:03:03,751] {logging_mixin.py:109} INFO - [2023-03-22 10:03:03,751] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:03:03,754] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:03:34,858] {processor.py:163} INFO - Started process (PID=66113) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:34,859] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:03:34,859] {logging_mixin.py:109} INFO - [2023-03-22 10:03:34,859] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:34,876] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:03:34,882] {logging_mixin.py:109} INFO - [2023-03-22 10:03:34,882] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:03:34,885] {logging_mixin.py:109} INFO - [2023-03-22 10:03:34,885] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:03:34,888] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:04:05,854] {processor.py:163} INFO - Started process (PID=66120) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:05,854] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:04:05,854] {logging_mixin.py:109} INFO - [2023-03-22 10:04:05,854] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:05,870] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:05,876] {logging_mixin.py:109} INFO - [2023-03-22 10:04:05,876] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:04:05,880] {logging_mixin.py:109} INFO - [2023-03-22 10:04:05,880] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:04:05,882] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:04:36,850] {processor.py:163} INFO - Started process (PID=66127) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:36,850] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:04:36,850] {logging_mixin.py:109} INFO - [2023-03-22 10:04:36,850] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:36,866] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:04:36,872] {logging_mixin.py:109} INFO - [2023-03-22 10:04:36,872] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:04:36,876] {logging_mixin.py:109} INFO - [2023-03-22 10:04:36,876] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:04:36,879] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:05:07,858] {processor.py:163} INFO - Started process (PID=66134) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:07,858] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:05:07,858] {logging_mixin.py:109} INFO - [2023-03-22 10:05:07,858] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:07,874] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:07,880] {logging_mixin.py:109} INFO - [2023-03-22 10:05:07,880] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:05:07,883] {logging_mixin.py:109} INFO - [2023-03-22 10:05:07,883] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:05:07,886] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:05:38,859] {processor.py:163} INFO - Started process (PID=66141) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:38,859] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:05:38,859] {logging_mixin.py:109} INFO - [2023-03-22 10:05:38,859] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:38,875] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:05:38,881] {logging_mixin.py:109} INFO - [2023-03-22 10:05:38,881] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:05:38,885] {logging_mixin.py:109} INFO - [2023-03-22 10:05:38,885] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:05:38,887] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:06:09,928] {processor.py:163} INFO - Started process (PID=66148) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:09,929] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:06:09,929] {logging_mixin.py:109} INFO - [2023-03-22 10:06:09,929] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:09,945] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:09,951] {logging_mixin.py:109} INFO - [2023-03-22 10:06:09,951] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:06:09,954] {logging_mixin.py:109} INFO - [2023-03-22 10:06:09,954] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:06:09,957] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:06:40,936] {processor.py:163} INFO - Started process (PID=66156) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:40,936] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:06:40,937] {logging_mixin.py:109} INFO - [2023-03-22 10:06:40,937] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:40,953] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:06:40,959] {logging_mixin.py:109} INFO - [2023-03-22 10:06:40,959] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:06:40,962] {logging_mixin.py:109} INFO - [2023-03-22 10:06:40,962] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:06:40,965] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:07:11,943] {processor.py:163} INFO - Started process (PID=66163) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:11,943] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:07:11,943] {logging_mixin.py:109} INFO - [2023-03-22 10:07:11,943] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:11,960] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:11,965] {logging_mixin.py:109} INFO - [2023-03-22 10:07:11,965] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:07:11,969] {logging_mixin.py:109} INFO - [2023-03-22 10:07:11,969] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:07:11,972] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:07:42,941] {processor.py:163} INFO - Started process (PID=66170) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:42,942] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:07:42,942] {logging_mixin.py:109} INFO - [2023-03-22 10:07:42,942] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:42,958] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:07:42,964] {logging_mixin.py:109} INFO - [2023-03-22 10:07:42,964] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:07:42,967] {logging_mixin.py:109} INFO - [2023-03-22 10:07:42,967] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:07:42,970] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:08:13,951] {processor.py:163} INFO - Started process (PID=66177) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:13,951] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:08:13,951] {logging_mixin.py:109} INFO - [2023-03-22 10:08:13,951] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:13,967] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:13,973] {logging_mixin.py:109} INFO - [2023-03-22 10:08:13,973] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:08:13,976] {logging_mixin.py:109} INFO - [2023-03-22 10:08:13,976] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:08:13,979] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:08:44,957] {processor.py:163} INFO - Started process (PID=66187) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:44,958] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:08:44,958] {logging_mixin.py:109} INFO - [2023-03-22 10:08:44,958] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:44,974] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:08:44,980] {logging_mixin.py:109} INFO - [2023-03-22 10:08:44,980] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:08:44,983] {logging_mixin.py:109} INFO - [2023-03-22 10:08:44,983] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:08:44,986] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:09:16,086] {processor.py:163} INFO - Started process (PID=66198) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:16,086] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:09:16,086] {logging_mixin.py:109} INFO - [2023-03-22 10:09:16,086] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:16,102] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:16,108] {logging_mixin.py:109} INFO - [2023-03-22 10:09:16,108] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:09:16,111] {logging_mixin.py:109} INFO - [2023-03-22 10:09:16,111] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:09:16,114] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:09:47,165] {processor.py:163} INFO - Started process (PID=66205) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:47,165] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:09:47,165] {logging_mixin.py:109} INFO - [2023-03-22 10:09:47,165] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:47,182] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:09:47,188] {logging_mixin.py:109} INFO - [2023-03-22 10:09:47,188] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:09:47,191] {logging_mixin.py:109} INFO - [2023-03-22 10:09:47,191] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:09:47,193] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:10:18,485] {processor.py:163} INFO - Started process (PID=66318) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:18,486] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:10:18,486] {logging_mixin.py:109} INFO - [2023-03-22 10:10:18,486] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:18,502] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:18,508] {logging_mixin.py:109} INFO - [2023-03-22 10:10:18,508] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:10:18,511] {logging_mixin.py:109} INFO - [2023-03-22 10:10:18,511] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:10:18,514] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:10:49,235] {processor.py:163} INFO - Started process (PID=66341) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:49,236] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:10:49,236] {logging_mixin.py:109} INFO - [2023-03-22 10:10:49,236] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:49,253] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:10:49,259] {logging_mixin.py:109} INFO - [2023-03-22 10:10:49,259] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:10:49,263] {logging_mixin.py:109} INFO - [2023-03-22 10:10:49,262] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:10:49,265] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:11:19,902] {processor.py:163} INFO - Started process (PID=66357) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:19,902] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:11:19,902] {logging_mixin.py:109} INFO - [2023-03-22 10:11:19,902] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:19,919] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:19,925] {logging_mixin.py:109} INFO - [2023-03-22 10:11:19,925] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:11:19,929] {logging_mixin.py:109} INFO - [2023-03-22 10:11:19,929] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:11:19,931] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:11:50,857] {processor.py:163} INFO - Started process (PID=66366) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:50,857] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:11:50,857] {logging_mixin.py:109} INFO - [2023-03-22 10:11:50,857] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:50,873] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:11:50,879] {logging_mixin.py:109} INFO - [2023-03-22 10:11:50,879] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:11:50,883] {logging_mixin.py:109} INFO - [2023-03-22 10:11:50,883] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:11:50,886] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:12:21,810] {processor.py:163} INFO - Started process (PID=66377) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:21,810] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:12:21,810] {logging_mixin.py:109} INFO - [2023-03-22 10:12:21,810] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:21,826] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:21,832] {logging_mixin.py:109} INFO - [2023-03-22 10:12:21,832] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:12:21,835] {logging_mixin.py:109} INFO - [2023-03-22 10:12:21,835] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:12:21,838] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:12:52,795] {processor.py:163} INFO - Started process (PID=66387) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:52,796] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:12:52,796] {logging_mixin.py:109} INFO - [2023-03-22 10:12:52,796] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:52,813] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:12:52,820] {logging_mixin.py:109} INFO - [2023-03-22 10:12:52,820] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:12:52,824] {logging_mixin.py:109} INFO - [2023-03-22 10:12:52,824] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:12:52,827] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.032 seconds
+[2023-03-22 10:13:23,710] {processor.py:163} INFO - Started process (PID=66395) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:23,710] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:13:23,710] {logging_mixin.py:109} INFO - [2023-03-22 10:13:23,710] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:23,726] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:23,732] {logging_mixin.py:109} INFO - [2023-03-22 10:13:23,732] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:13:23,736] {logging_mixin.py:109} INFO - [2023-03-22 10:13:23,736] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:13:23,738] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:13:54,663] {processor.py:163} INFO - Started process (PID=66402) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:54,663] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:13:54,663] {logging_mixin.py:109} INFO - [2023-03-22 10:13:54,663] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:54,679] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:13:54,685] {logging_mixin.py:109} INFO - [2023-03-22 10:13:54,685] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:13:54,688] {logging_mixin.py:109} INFO - [2023-03-22 10:13:54,688] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:13:54,691] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:14:25,608] {processor.py:163} INFO - Started process (PID=66410) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:25,608] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:14:25,608] {logging_mixin.py:109} INFO - [2023-03-22 10:14:25,608] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:25,624] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:25,630] {logging_mixin.py:109} INFO - [2023-03-22 10:14:25,630] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:14:25,633] {logging_mixin.py:109} INFO - [2023-03-22 10:14:25,633] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:14:25,636] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:14:56,548] {processor.py:163} INFO - Started process (PID=66417) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:56,548] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:14:56,548] {logging_mixin.py:109} INFO - [2023-03-22 10:14:56,548] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:56,564] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:14:56,570] {logging_mixin.py:109} INFO - [2023-03-22 10:14:56,570] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:14:56,573] {logging_mixin.py:109} INFO - [2023-03-22 10:14:56,573] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:14:56,576] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:15:27,512] {processor.py:163} INFO - Started process (PID=66424) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:27,513] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:15:27,513] {logging_mixin.py:109} INFO - [2023-03-22 10:15:27,513] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:27,529] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:27,535] {logging_mixin.py:109} INFO - [2023-03-22 10:15:27,535] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:15:27,538] {logging_mixin.py:109} INFO - [2023-03-22 10:15:27,538] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:15:27,541] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:15:58,513] {processor.py:163} INFO - Started process (PID=66434) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:58,514] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:15:58,514] {logging_mixin.py:109} INFO - [2023-03-22 10:15:58,514] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:58,530] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:15:58,537] {logging_mixin.py:109} INFO - [2023-03-22 10:15:58,537] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:15:58,540] {logging_mixin.py:109} INFO - [2023-03-22 10:15:58,540] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:15:58,543] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:16:29,416] {processor.py:163} INFO - Started process (PID=66442) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:16:29,416] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:16:29,416] {logging_mixin.py:109} INFO - [2023-03-22 10:16:29,416] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:16:29,432] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:16:29,438] {logging_mixin.py:109} INFO - [2023-03-22 10:16:29,438] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:16:29,441] {logging_mixin.py:109} INFO - [2023-03-22 10:16:29,441] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:16:29,444] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:17:00,364] {processor.py:163} INFO - Started process (PID=66450) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:00,364] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:17:00,364] {logging_mixin.py:109} INFO - [2023-03-22 10:17:00,364] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:00,381] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:00,387] {logging_mixin.py:109} INFO - [2023-03-22 10:17:00,387] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:17:00,390] {logging_mixin.py:109} INFO - [2023-03-22 10:17:00,390] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:17:00,393] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:17:31,315] {processor.py:163} INFO - Started process (PID=66457) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:31,316] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:17:31,316] {logging_mixin.py:109} INFO - [2023-03-22 10:17:31,316] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:31,332] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:17:31,338] {logging_mixin.py:109} INFO - [2023-03-22 10:17:31,338] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:17:31,341] {logging_mixin.py:109} INFO - [2023-03-22 10:17:31,341] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:17:31,344] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:18:02,291] {processor.py:163} INFO - Started process (PID=66473) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:02,291] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:18:02,292] {logging_mixin.py:109} INFO - [2023-03-22 10:18:02,292] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:02,308] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:02,315] {logging_mixin.py:109} INFO - [2023-03-22 10:18:02,315] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:18:02,322] {logging_mixin.py:109} INFO - [2023-03-22 10:18:02,322] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:18:02,327] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.036 seconds
+[2023-03-22 10:18:33,207] {processor.py:163} INFO - Started process (PID=66483) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:33,208] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:18:33,208] {logging_mixin.py:109} INFO - [2023-03-22 10:18:33,208] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:33,224] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:18:33,230] {logging_mixin.py:109} INFO - [2023-03-22 10:18:33,230] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:18:33,233] {logging_mixin.py:109} INFO - [2023-03-22 10:18:33,233] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:18:33,236] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:19:04,205] {processor.py:163} INFO - Started process (PID=66491) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:04,205] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:19:04,205] {logging_mixin.py:109} INFO - [2023-03-22 10:19:04,205] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:04,222] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:04,228] {logging_mixin.py:109} INFO - [2023-03-22 10:19:04,228] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:19:04,232] {logging_mixin.py:109} INFO - [2023-03-22 10:19:04,232] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:19:04,235] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:19:35,087] {processor.py:163} INFO - Started process (PID=66498) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:35,088] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:19:35,089] {logging_mixin.py:109} INFO - [2023-03-22 10:19:35,089] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:35,105] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:19:35,111] {logging_mixin.py:109} INFO - [2023-03-22 10:19:35,111] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:19:35,114] {logging_mixin.py:109} INFO - [2023-03-22 10:19:35,114] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:19:35,117] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:20:06,044] {processor.py:163} INFO - Started process (PID=66505) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:06,044] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:20:06,044] {logging_mixin.py:109} INFO - [2023-03-22 10:20:06,044] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:06,062] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:06,068] {logging_mixin.py:109} INFO - [2023-03-22 10:20:06,068] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:20:06,071] {logging_mixin.py:109} INFO - [2023-03-22 10:20:06,071] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:20:06,074] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:20:37,011] {processor.py:163} INFO - Started process (PID=66513) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:37,011] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:20:37,011] {logging_mixin.py:109} INFO - [2023-03-22 10:20:37,011] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:37,027] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:20:37,033] {logging_mixin.py:109} INFO - [2023-03-22 10:20:37,033] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:20:37,037] {logging_mixin.py:109} INFO - [2023-03-22 10:20:37,037] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:20:37,039] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:21:07,958] {processor.py:163} INFO - Started process (PID=66522) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:07,958] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:21:07,958] {logging_mixin.py:109} INFO - [2023-03-22 10:21:07,958] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:07,974] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:07,980] {logging_mixin.py:109} INFO - [2023-03-22 10:21:07,980] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:21:07,983] {logging_mixin.py:109} INFO - [2023-03-22 10:21:07,983] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:21:07,986] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:21:38,923] {processor.py:163} INFO - Started process (PID=66530) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:38,923] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:21:38,923] {logging_mixin.py:109} INFO - [2023-03-22 10:21:38,923] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:38,939] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:21:38,945] {logging_mixin.py:109} INFO - [2023-03-22 10:21:38,945] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:21:38,949] {logging_mixin.py:109} INFO - [2023-03-22 10:21:38,949] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:21:38,951] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:22:09,839] {processor.py:163} INFO - Started process (PID=66537) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:09,839] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:22:09,839] {logging_mixin.py:109} INFO - [2023-03-22 10:22:09,839] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:09,855] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:09,861] {logging_mixin.py:109} INFO - [2023-03-22 10:22:09,861] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:22:09,865] {logging_mixin.py:109} INFO - [2023-03-22 10:22:09,865] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:22:09,867] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.028 seconds
+[2023-03-22 10:22:40,814] {processor.py:163} INFO - Started process (PID=66544) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:40,814] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:22:40,814] {logging_mixin.py:109} INFO - [2023-03-22 10:22:40,814] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:40,832] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:22:40,838] {logging_mixin.py:109} INFO - [2023-03-22 10:22:40,838] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:22:40,842] {logging_mixin.py:109} INFO - [2023-03-22 10:22:40,842] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:22:40,845] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.032 seconds
+[2023-03-22 10:23:11,745] {processor.py:163} INFO - Started process (PID=66552) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:11,745] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:23:11,745] {logging_mixin.py:109} INFO - [2023-03-22 10:23:11,745] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:11,762] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:11,768] {logging_mixin.py:109} INFO - [2023-03-22 10:23:11,768] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:23:11,771] {logging_mixin.py:109} INFO - [2023-03-22 10:23:11,771] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:23:11,774] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:23:42,675] {processor.py:163} INFO - Started process (PID=66559) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:42,675] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:23:42,675] {logging_mixin.py:109} INFO - [2023-03-22 10:23:42,675] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:42,691] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:23:42,697] {logging_mixin.py:109} INFO - [2023-03-22 10:23:42,697] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:23:42,700] {logging_mixin.py:109} INFO - [2023-03-22 10:23:42,700] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:23:42,703] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:24:13,634] {processor.py:163} INFO - Started process (PID=66567) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:13,634] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:24:13,634] {logging_mixin.py:109} INFO - [2023-03-22 10:24:13,634] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:13,651] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:13,657] {logging_mixin.py:109} INFO - [2023-03-22 10:24:13,657] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:24:13,661] {logging_mixin.py:109} INFO - [2023-03-22 10:24:13,661] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:24:13,664] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.031 seconds
+[2023-03-22 10:24:44,572] {processor.py:163} INFO - Started process (PID=66574) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:44,572] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:24:44,572] {logging_mixin.py:109} INFO - [2023-03-22 10:24:44,572] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:44,588] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:24:44,594] {logging_mixin.py:109} INFO - [2023-03-22 10:24:44,594] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:24:44,597] {logging_mixin.py:109} INFO - [2023-03-22 10:24:44,597] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:24:44,600] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.029 seconds
+[2023-03-22 10:25:15,555] {processor.py:163} INFO - Started process (PID=66582) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:15,556] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:25:15,556] {logging_mixin.py:109} INFO - [2023-03-22 10:25:15,556] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:15,573] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:15,579] {logging_mixin.py:109} INFO - [2023-03-22 10:25:15,579] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:25:15,582] {logging_mixin.py:109} INFO - [2023-03-22 10:25:15,582] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:25:15,585] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:25:46,585] {processor.py:163} INFO - Started process (PID=66590) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:46,586] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:25:46,586] {logging_mixin.py:109} INFO - [2023-03-22 10:25:46,586] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:46,606] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:25:46,613] {logging_mixin.py:109} INFO - [2023-03-22 10:25:46,612] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:25:46,616] {logging_mixin.py:109} INFO - [2023-03-22 10:25:46,616] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:25:46,619] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.035 seconds
+[2023-03-22 10:26:17,484] {processor.py:163} INFO - Started process (PID=66597) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:17,485] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:26:17,485] {logging_mixin.py:109} INFO - [2023-03-22 10:26:17,485] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:17,502] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:17,509] {logging_mixin.py:109} INFO - [2023-03-22 10:26:17,509] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:26:17,512] {logging_mixin.py:109} INFO - [2023-03-22 10:26:17,512] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:26:17,514] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.030 seconds
+[2023-03-22 10:26:48,398] {processor.py:163} INFO - Started process (PID=66632) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:48,399] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:26:48,399] {logging_mixin.py:109} INFO - [2023-03-22 10:26:48,399] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:48,417] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:26:48,424] {logging_mixin.py:109} INFO - [2023-03-22 10:26:48,424] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:26:48,427] {logging_mixin.py:109} INFO - [2023-03-22 10:26:48,427] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:26:48,430] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.032 seconds
+[2023-03-22 10:27:19,518] {processor.py:163} INFO - Started process (PID=67458) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:19,519] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:27:19,519] {logging_mixin.py:109} INFO - [2023-03-22 10:27:19,519] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:19,539] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:19,546] {logging_mixin.py:109} INFO - [2023-03-22 10:27:19,546] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:27:19,550] {logging_mixin.py:109} INFO - [2023-03-22 10:27:19,550] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:27:19,553] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.036 seconds
+[2023-03-22 10:27:50,291] {processor.py:163} INFO - Started process (PID=68230) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:50,292] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:27:50,292] {logging_mixin.py:109} INFO - [2023-03-22 10:27:50,292] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:50,311] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:27:50,318] {logging_mixin.py:109} INFO - [2023-03-22 10:27:50,318] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:27:50,323] {logging_mixin.py:109} INFO - [2023-03-22 10:27:50,323] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:27:50,326] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.035 seconds
+[2023-03-22 10:28:21,586] {processor.py:163} INFO - Started process (PID=68263) to work on /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:28:21,587] {processor.py:642} INFO - Processing file /Users/leebyeonghwa/airflow/dags/get_name_dag.py for tasks to queue
+[2023-03-22 10:28:21,587] {logging_mixin.py:109} INFO - [2023-03-22 10:28:21,587] {dagbag.py:500} INFO - Filling up the DagBag from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:28:21,604] {processor.py:654} INFO - DAG(s) dict_keys(['our_dag_with_python_operator_v03']) retrieved from /Users/leebyeonghwa/airflow/dags/get_name_dag.py
+[2023-03-22 10:28:21,610] {logging_mixin.py:109} INFO - [2023-03-22 10:28:21,610] {dag.py:2396} INFO - Sync 1 DAGs
+[2023-03-22 10:28:21,614] {logging_mixin.py:109} INFO - [2023-03-22 10:28:21,614] {dag.py:2935} INFO - Setting next_dagrun for our_dag_with_python_operator_v03 to 2023-03-22T00:00:00+00:00
+[2023-03-22 10:28:21,617] {processor.py:171} INFO - Processing /Users/leebyeonghwa/airflow/dags/get_name_dag.py took 0.031 seconds
